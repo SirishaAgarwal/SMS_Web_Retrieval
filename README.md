@@ -1,16 +1,3 @@
-# flutter_application_1
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Enables users with limited to no internet to access web information via chatbot SMS messaging. 
+Utilizes APIs and creates a Large Language Model for a text chatbot that responds with web-scraped automated messages.
+Uses Flutter, Dart, and OpenAI API for LLM chatbot abilities.
